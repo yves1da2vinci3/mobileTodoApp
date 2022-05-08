@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804246682926",
+    "project_id": "mobiletodo-3fb06",
+    "storage_bucket": "mobiletodo-3fb06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804246682926:android:84df4883d70df1bbf38ebf",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804246682926-fidlh562nfbih2thj54mboo2a0jqh9o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzVBPU_CxDOxCQ4YXspU8wf8t-rZwvOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804246682926-fidlh562nfbih2thj54mboo2a0jqh9o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
